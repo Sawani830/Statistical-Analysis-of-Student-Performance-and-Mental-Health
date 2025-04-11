@@ -1,6 +1,3 @@
-Below is an example README file that you can include with your project repository. Adjust any details as needed to accurately reflect your analysis and results.
-
----
 
 # Statistical Analysis of Student Performance and Mental Health
 
